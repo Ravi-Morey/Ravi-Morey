@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 ## 📬 Connect with Me
 
 - 📧 Email: **moreravi760@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/ravi-morey][https://www.linkedin.com/in/ravi-morey-25r25r25/]
+- 💼 LinkedIn: [linkedin.com/in/ravi-morey-25r25r25][https://www.linkedin.com/in/ravi-morey-25r25r25/]
 - 🌐 Portfolio: *https://www.ravimorey.com*
 
 ---
