@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧑‍💻 About Me
 
-- 💻 I’m a passionate **Full Stack Developer** with a focus on **Laravel, PHP, React.js**, and **custom CRM solutions**.  
+- 💻 I’m a passionate **Full Stack Developer** with a focus on **CodeIgniter 4, PHP, Python**, and **custom CRM solutions**.  
 - 🎨 I love crafting clean, responsive web designs and user-friendly interfaces.  
 - 🛠️ Currently enhancing skills in **API development**, **automation**, and **performance optimization**.  
 - 🤝 Open to collaboration on real-world projects, startups, and open-source contributions.
@@ -48,16 +48,16 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,react,bootstrap,mysql,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=php,python,laravel,html,css,js,react,bootstrap,mysql,git,github,vscode,figma,linux" />
 </p>
 
 ---
 
 ## 📬 Connect with Me
 
-- 📧 Email: **ravimorey.dev@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/ravi-morey](https://www.linkedin.com/in/ravi-morey)
-- 🌐 Portfolio: *(Add your personal website if available)*
+- 📧 Email: **moreravi760@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/ravi-morey][https://www.linkedin.com/in/ravi-morey-25r25r25/]
+- 🌐 Portfolio: *https://www.ravimorey.com*
 
 ---
 
