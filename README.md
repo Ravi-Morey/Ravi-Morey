@@ -39,12 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🚀 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ravi-Morey&theme=github-compact&area=true)
-
----
-
 ## 🛠️ Languages & Tools
 
 <p>
